@@ -14,15 +14,6 @@ Informatics student • AI/ML • Cybersecurity
 
 I build intelligent systems that work when data is messy, hardware is limited, and security matters. Informatics student at the Republic of Indonesia Defense University with a Ministry of Defense scholarship, working across AI, machine learning, and cybersecurity.
 
-- Military Informatics @ Universitas Pertahanan RI (GPA 3.98/4.0, Rank 1 of 300)
-- International exchange @ Rabdan Academy, UAE (Cyber Warfare & Security Policy)
-- Published researcher in computer vision, academic search, and cloud systems
-- National champion in UI/UX, Game Dev, and Hackathons
-- Yogyakarta, Indonesia
-- Email: risqullaharya16@gmail.com
-
-> "I work on machine learning and security problems that have to survive outside the lab."
-
 ---
 
 ## Tech Stack
@@ -62,11 +53,3 @@ I build intelligent systems that work when data is messy, hardware is limited, a
 | Cloud Gaming via Construct Engine on Heroku | Jurnal Mandiri IT |
 
 [Portfolio](https://reezqullah.vercel.app/) | [Publications](https://reezqullah.vercel.app/#research)
-
----
-
-## Contact
-
-- GitHub: @urtir
-- LinkedIn: Rizqullah Aryaputra Piliang
-- Email: risqullaharya16@gmail.com
