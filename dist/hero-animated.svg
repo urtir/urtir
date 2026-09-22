@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 120" width="720" height="120" role="img" aria-label="RIZQULLAH TIR">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF41">
+        <animate attributeName="stop-color" values="#00FF41;#FF00FF;#FFE600;#00FF41" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#FF00FF">
+        <animate attributeName="stop-color" values="#FF00FF;#FFE600;#00FF41;#FF00FF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FFE600">
+        <animate attributeName="stop-color" values="#FFE600;#00FF41;#FF00FF;#FFE600" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="4" y="4" width="712" height="112" fill="#0d1117" stroke="#00FF41" stroke-width="2" rx="0">
+    <animate attributeName="stroke" values="#00FF41;#FF00FF;#FFE600;#FF3333;#00FF41" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="360" y="52" text-anchor="middle" font-family="Fira Code,Consolas,monospace" font-size="36" font-weight="700" fill="url(#g)" filter="url(#glow)">RIZQULLAH // TIR</text>
+  <text x="360" y="86" text-anchor="middle" font-family="Fira Code,Consolas,monospace" font-size="14" fill="#E0E0E0" letter-spacing="4">
+    INFORMATICS · AI-ML · CYBER
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+  </text>
+  <circle cx="28" cy="28" r="4" fill="#00FF41">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="692" cy="28" r="4" fill="#FF00FF">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
+  </circle>
+</svg>

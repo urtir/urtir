@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <path d="M4 16 V4 H16" fill="none" stroke="#00FF41" stroke-width="3">
+    <animate attributeName="stroke" values="#00FF41;#FF00FF;#FFE600;#00FF41" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <path d="M32 4 H44 V16" fill="none" stroke="#FF00FF" stroke-width="3">
+    <animate attributeName="stroke" values="#FF00FF;#FFE600;#00FF41;#FF00FF" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <path d="M44 32 V44 H32" fill="none" stroke="#FFE600" stroke-width="3">
+    <animate attributeName="stroke" values="#FFE600;#00FF41;#FF00FF;#FFE600" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <path d="M16 44 H4 V32" fill="none" stroke="#FF6633" stroke-width="3">
+    <animate attributeName="stroke" values="#FF6633;#00FF41;#FF00FF;#FF6633" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <rect x="18" y="18" width="12" height="12" fill="#00FF41">
+    <animate attributeName="fill" values="#00FF41;#FF00FF;#FFE600;#00FF41" dur="2s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" values="0 24 24;90 24 24;180 24 24;270 24 24;360 24 24" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
