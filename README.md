@@ -78,7 +78,11 @@
       <td><img src="https://img.shields.io/badge/JIIP-published-00FF41?style=flat-square&labelColor=000000" alt="JIIP" height="24"></td>
     </tr>
     <tr>
-      <td><strong>Model Context Protocol</strong> for Academic Search</td>
+      <td>Responsive landing page for <strong>Prodi Informatika</strong> Unhan RI</td>
+      <td><img src="https://img.shields.io/badge/Jurnal%20Informatika%20Uniraya-published-00BFFF?style=flat-square&labelColor=000000" alt="Jurnal Informatika Uniraya" height="24"></td>
+    </tr>
+    <tr>
+      <td><strong>Model Context Protocol</strong> for multi-platform academic search</td>
       <td><img src="https://img.shields.io/badge/Nuansa%20Informatika-published-FF00FF?style=flat-square&labelColor=000000" alt="Nuansa Informatika" height="24"></td>
     </tr>
     <tr>
