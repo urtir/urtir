@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/urtir/urtir/main/dist/hero-animated.svg" alt="RIZQULLAH // TIR — Informatics, AI-ML, Cyber" width="720">
+<img src="https://raw.githubusercontent.com/urtir/urtir/main/dist/hero-animated.svg" alt="URTIR — Informatics, AI-ML, Cyber" width="720">
 
 <br>
 
