@@ -25,30 +25,6 @@ Based in **Yogyakarta, Indonesia**. Fully funded scholarship awardee, best acade
 
 Currently building open-source projects, research in AI/ML and cybersecurity, and shipping full-stack systems. Portfolio: [reezqullah.vercel.app](https://reezqullah.vercel.app/).
 
-```js
-const RIZQULLAH = {
-  name: "Rizqullah Aryaputra Piliang",
-  location: "Yogyakarta, Indonesia",
-  education: {
-    primary: "Military Informatics, Indonesia Defense University (2022-2026)",
-    exchange: "Homeland Security, Rabdan Academy, UAE (2025)"
-  },
-  languages: ["Python", "JavaScript", "TypeScript", "SQL", "C", "Java", "Bash"],
-  programming: {
-    ai_ml: ["TensorFlow", "PyTorch", "scikit-learn", "YOLOv5", "OpenCV", "NLP", "LLMs"],
-    backend: ["Django", "FastAPI", "Node.js", "Express"],
-    frontend: ["React", "HTML", "CSS", "Figma", "UI/UX"],
-    databases: ["PostgreSQL", "MySQL", "Redis", "MongoDB", "Neo4j"],
-    cloud_devops: ["Azure", "GCP", "Docker", "Heroku", "cPanel", "Plesk", "SolusVM"],
-    security: ["Kali Linux", "Burp Suite", "Penetration Testing", "ISO 27001"],
-    iot: ["Raspberry Pi", "ESP32", "Arduino"],
-    game: ["Construct 3", "Unity"]
-  },
-  certifications: 30,
-  publications: 4
-};
-```
-
 ## 🎓 Education
 
 | Degree | Institution | Period |
